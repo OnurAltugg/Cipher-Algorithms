@@ -1,6 +1,3 @@
-def breakk(encrypted_str):
-    return;
-    
 def encryption(text, key):
     new_text = ""
     count = 0
